@@ -1,0 +1,7 @@
+Document ID: policy_refund
+
+Refund Policy:
+Customers may request a refund within 30 days of purchase.
+Refunds are issued to the original payment method.
+Processing time is typically 5 to 10 business days.
+Exceptions require manager approval.
