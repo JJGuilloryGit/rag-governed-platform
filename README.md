@@ -1,6 +1,6 @@
 # Production-Grade RAG Platform with Prompt Governance (AWS)
 
-This repo is an interview-ready reference implementation of a **governed RAG** (Retrieval Augmented Generation)
+This repo is a reference implementation of a **governed RAG** (Retrieval Augmented Generation)
 service on AWS. It demonstrates:
 
 - **RAG grounding** with chunking + embeddings + retrieval
