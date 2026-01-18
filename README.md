@@ -126,14 +126,6 @@ terraform apply
 
 ---
 
-## Interview Framing
-
-This project demonstrates:
-- RAG correctness over raw generation
-- Prompt governance as a first-class concern
-- Evaluation before deployment
-- Cost-aware design
-- Production GenAI engineering discipline
 
 ---
 
