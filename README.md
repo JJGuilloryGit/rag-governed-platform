@@ -118,17 +118,6 @@ Components:
 - OpenSearch
 - IAM + Terraform
 
-```bash
-cd terraform
-terraform init
-terraform apply
-```
-
----
-
-
----
-
 ## License
 
 MIT
